@@ -7,7 +7,7 @@ export default function QuoteAndcharacter(props) {
     <div id='quote-box'>
       <div id='text-div'>
         <i className='fas fa-quote-left open quote'></i>
-        <div id='text'>
+        <div id='text-1'>
           <p>
             {/* I love The Simpsons - who doesn't?? Why not click the button below
               to see some of the iconic quotes to come out of this amazing
