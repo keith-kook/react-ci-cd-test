@@ -1,10 +1,10 @@
 :root {
-  --primary: #cc7722;
+  --primary: #fceb00;
 }
 
 @font-face {
-  font-family: 'Simpsons';
-  src: local('MyFont'), url(./fonts/akbar.ttf) format('woff');
+  font-family: "Simpsons";
+  src: local("MyFont"), url(./fonts/akbar.ttf) format("woff");
 }
 
 body {
@@ -25,7 +25,7 @@ body {
 }
 
 #text {
-  font-family: 'Simpsons', serif;
+  font-family: "Simpsons", serif;
   color: white;
 }
 
